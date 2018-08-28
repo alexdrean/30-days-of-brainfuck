@@ -3,6 +3,9 @@ Implementing brainfuck interpreter, in 30 languages.
 
 The goal here is obviously to learn new languages and new paradigms. Hence, we'll try to produce optimized interpreters.
 
+# Usage
+`./test.sh <language1> [language2] […]` or `./test.sh *`
+
 # Languages
 | Day | Language   |
 |-----|------------|
