@@ -12,6 +12,6 @@ do
 	diff ../hello_nested_world.ref hello_nested_world.out > /dev/null && echo "OK $param HELLO_NESTED_WORLD" || echo "ERROR $param HELLO_NESTED_WORLD"
 
 	echo "187438238" | ./program ../factor.bf > factor.out
-	diff ../factor.ref factor.out > /dev/null && echo "OK $param HELLO_WORLD" || echo "ERROR $param HELLO_WORLD"
+	diff ../factor.ref factor.out > /dev/null && echo "OK $param FACTOR" || echo "ERROR $param FACTOR"
 	cd ..
 done
