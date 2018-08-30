@@ -2,7 +2,7 @@
 
 for p in "$*"
 do
-	for param in ./$p
+	for param in $p
 	do
 		cd $param 2>/dev/null || continue
 		sh "compile.sh" || (cd .. && continue)
