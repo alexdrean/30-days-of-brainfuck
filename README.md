@@ -1,18 +1,18 @@
 # 30-days-of-brainfuck
 Implementing brainfuck interpreter, in 30 languages.
 
-The goal here is obviously to learn new languages and new paradigms. Hence, we'll try to produce optimized interpreters.
+The goal here is obviously to learn new languages and new paradigms.
 
 # Usage
 `./test.sh <language1> [language2] […]` or `./test.sh *`
 
 # Languages
-| Day | Language   | "Factor" time (ms) |
-|-----|------------|--------------------|
-| #01 | C          | 80                 |
-| #02 | Go         | 121                |
-| #03 | Javascript | 1743               |
-| #04 | C#         | 220                |
+| Day | Language   | "factor.bf" time (ms) |
+|-----|------------|-----------------------|
+| #01 | C          | 80                    |
+| #02 | Go         | 121                   |
+| #03 | Javascript | 1743                  |
+| #04 | C#         | 220                   |
 | #05 | Python     | |
 | #06 | Java       | |
 | #07 | Perl       | |
