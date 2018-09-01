@@ -52,6 +52,6 @@ def brainfuck(rom):
 for arg in sys.argv[1:]:
     f = open(arg, "r")
     rom = f.read()
-    optimized = "".join(filter(lambda c: c in ['+', '-', '>', '<', '.', ',', '[', ']'], rom))
+    #optimized = "".join(filter(lambda c: c in ['+', '-', '>', '<', '.', ',', '[', ']'], rom))
     #brainfuck(optimized)
     brainfuck(rom)
