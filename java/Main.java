@@ -19,7 +19,7 @@ class Main {
 					}
 					else if (c == '[') {
 						if (tab[tabIndex] == 0)
-							romIndex = handleLoop(rom, romIndex)-1;
+							romIndex = handleLoop(rom, romIndex);
 					} else if (c == ']') {
 						if (tab[tabIndex] != 0)
 							romIndex = handleLoop(rom, romIndex);
