@@ -14,7 +14,7 @@ The goal here is obviously to learn new languages and new paradigms.
 | #03 | Javascript | 1683                  | 60               |
 | #04 | C#         | 201                   | 19               |
 | #05 | Python     | 7328                  | 8                |
-| #06 | Java       | 76                    | 49               |
+| #06 | Java       | 70                    | 49               |
 | #07 | Perl       | | |
 | #08 | Ruby       | | |
 | #09 | D          | | |

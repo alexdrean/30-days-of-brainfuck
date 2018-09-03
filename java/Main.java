@@ -8,7 +8,7 @@ class Main {
 				byte[] rom = Files.readAllBytes(Paths.get(filename));
 				byte[] tab = new byte[30000];
 				for (int romIndex = 0, tabIndex = 0; romIndex < rom.length; romIndex++) {
-					char c = (char)rom[romIndex];
+					byte c = rom[romIndex];
 					if (c == '+') tab[tabIndex]++;
 					else if (c == '-') tab[tabIndex]--;
 					else if (c == '>') tabIndex++;
