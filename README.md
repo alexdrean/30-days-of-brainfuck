@@ -15,7 +15,7 @@ The goal here is obviously to learn new languages and new paradigms.
 | #04 | C#         | 201                   | 19               |
 | #05 | Python     | 7328                  | 8                |
 | #06 | Java       | 66                    | 49               |
-| #07 | Perl       | | |
+| #07 | Perl       | 330                   | 8                |
 | #08 | Ruby       | | |
 | #09 | D          | | |
 | #10 | R          | | |
@@ -45,3 +45,5 @@ Computed on Fedora 28 with i7-8550U.
 No power management (charging).
 
 "factor.bf" time excludes warmup (hello_world.bf) time.
+
+Yes, I know, the perl implementation is unfair.
