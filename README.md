@@ -16,7 +16,7 @@ The goal here is obviously to learn new languages and new paradigms.
 | #05 | Python     | 7328                  | 8                |
 | #06 | Java       | 66                    | 49               |
 | #07 | Perl       | 330                   | 8                |
-| #08 | Ruby       | | |
+| #08 | Ruby       | 202                   | 60               |
 | #09 | D          | | |
 | #10 | R          | | |
 | #11 | Haskell    | | |
@@ -46,4 +46,4 @@ No power management (charging).
 
 "factor.bf" time excludes warmup (hello_world.bf) time.
 
-Yes, I know, the perl implementation is unfair.
+Yes, I know, the perl and ruby implementations are unfair.
